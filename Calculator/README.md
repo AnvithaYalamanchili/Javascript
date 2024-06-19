@@ -30,7 +30,7 @@ This project is a simple web-based calculator that allows users to perform basic
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository:  `https://github.com/AnvithaYalamanchili/calculator.git`
+1.Clone the repository:  `https://github.com/AnvithaYalamanchili/calculator.git`
 2.Navigate to the project directory:`cd calculator`
 3.Open `calculator.html` in your preferred web browser.
 
