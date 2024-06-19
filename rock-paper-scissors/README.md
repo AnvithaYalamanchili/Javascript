@@ -19,9 +19,9 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 ## Files
 
-- `index.html`: The main HTML file that contains the structure of the game.
-- `styles/10-rock-paper-scissors.css`: The CSS file that styles the game.
-- `scripts/10-rock-paper-scissors.js`: The JavaScript file that contains the game logic.
+- `rock-paper-scissors.html`: The main HTML file that contains the structure of the game.
+- `rock-paper-scissors.css`: The CSS file that styles the game.
+- `rock-paper-scissors.js`: The JavaScript file that contains the game logic.
 
 ## Code Overview
 
