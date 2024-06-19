@@ -4,7 +4,7 @@ This project is a simple web-based calculator that allows users to perform basic
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
