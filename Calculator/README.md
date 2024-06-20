@@ -33,7 +33,8 @@ To set up the project locally, follow these steps:
 2. Navigate to the project directory:`cd calculator`
 3. Open `calculator.html` in your preferred browser
 
-##Screenshots
+## Screenshots
+
 ![Screenshot (151)](https://github.com/AnvithaYalamanchili/Javascript/assets/157231002/fcf284df-f141-467b-8753-f2b1a61aaab3)
 
 ![Screenshot (152)](https://github.com/AnvithaYalamanchili/Javascript/assets/157231002/6b5fad85-3058-4f9a-9ef6-9a3658185fad)
