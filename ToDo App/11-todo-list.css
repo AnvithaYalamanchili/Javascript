@@ -1,0 +1,99 @@
+body {
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "Caveat", cursive;
+    background-color: honeydew
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #19F4F6, #E899AA);
+    border: none;
+}
+
+.heading {
+    margin-left: 30px;
+    font-size: 40px;
+}
+
+.todo-grid, .todo-input-grid {
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: center;
+}
+
+.todo-input-grid {
+    margin-bottom: 10px;
+    align-items: stretch;
+}
+
+.name-input, .due-date-input {
+    padding: 6px;
+    font-size: 15px;
+}
+
+.add-todo-button {
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.ion {
+    font-size: 20px; 
+    cursor: pointer;
+    transition: color 0.3s;
+    padding:5px 10px;
+    color: white;
+    font-size: bold;
+    background-color: #F74D04;
+    border-radius: 5px;
+}
+
+.ion:hover {
+    color: rgb(219, 80, 80);
+    background-color: white;
+}
+.wholediv{
+    border:2px solid black;
+}
+
+.js-todo-list {
+    max-height: 300px;
+    overflow-y: auto;
+    width: 100%;
+    margin-left: 31px;
+}
+
+.name {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.deleteAll {
+    padding: 10px; 
+    margin-top: 20px; 
+    background-color: #DB5050;
+    color: white;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
