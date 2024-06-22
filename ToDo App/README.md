@@ -9,7 +9,7 @@ You can see a live demo of the project [https://courageous-valkyrie-47985b.netli
 - Add new tasks with a name and due date.
 - Remove individual tasks.
 - Delete all tasks at once.
-- Simple and responsive UI.
+- Simple UI.
 
 ## Getting Started
 
